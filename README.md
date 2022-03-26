@@ -22,4 +22,4 @@ Github는 Git을 제공하는 온라인 서비스입니다. Github에서는 전 
 ## 참고 자료
 - [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/)
 - [팀 개발을 위한 Git, Github 입문](https://www.inflearn.com/course/팀개발-깃-깃허브?inst=78af1b7b)
-
+- [Git flow(체계적인 git 사용법)](https://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
